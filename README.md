@@ -13,3 +13,4 @@ A. Python Libraries:
     6. datetime (to acquire the student check in date and time)
     
 B. MySQL (for database handling)
+C. Haar Cascade (an Object Detection Algorithm used to identify faces in an image or a real time video)
